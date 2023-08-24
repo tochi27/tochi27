@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tochi27.
-- 🌱 I’m currently learning Java Script and React JS.
-- 💞️ I’m looking to collaborate on Frontend development.
+- 🌱 I'm a software developer.
+- 💞️ I’m looking to collaborate on scalable projects.
 - 📫 How to reach me tochukwuamaechina2703@gmail.com
 
 <!---
